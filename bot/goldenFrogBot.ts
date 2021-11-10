@@ -17,7 +17,7 @@ function makeRandomChoice(percentToTake) {
     }
 }
 
-function onGameSparksMessage(m) {
+function onGameSparksMessage(m) {     
     console.log("GS Message", m);
 }
 
